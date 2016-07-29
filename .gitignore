@@ -53,6 +53,8 @@ Thumbs.db
 # "themes" directory
 wp-content/*
 !wp-content/themes/
+!wp-content/themes/faster/
+!wp-content/themes/twentysixteen
 
 # ignore specific themes
 wp-content/themes/uxliturgy/
