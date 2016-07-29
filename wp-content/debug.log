@@ -1,6 +1,0 @@
-[28-Jul-2016 17:33:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/faster.support/wp-content/themes/uxliturgy/functions.php on line 437
-[29-Jul-2016 08:40:29 UTC] PHP Notice:  Undefined offset: 1 in /var/www/faster.support/wp-includes/class-wp-xmlrpc-server.php on line 6329
-[29-Jul-2016 08:40:47 UTC] PHP Notice:  Undefined offset: 1 in /var/www/faster.support/wp-includes/class-wp-xmlrpc-server.php on line 6329
-[29-Jul-2016 08:41:06 UTC] PHP Notice:  Undefined offset: 1 in /var/www/faster.support/wp-includes/class-wp-xmlrpc-server.php on line 6329
-[29-Jul-2016 08:48:56 UTC] PHP Notice:  Undefined offset: 1 in /var/www/faster.support/wp-includes/class-wp-xmlrpc-server.php on line 6329
-[29-Jul-2016 08:53:03 UTC] PHP Notice:  Undefined offset: 1 in /var/www/faster.support/wp-includes/class-wp-xmlrpc-server.php on line 6329
