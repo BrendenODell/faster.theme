@@ -13,7 +13,7 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 /*---------------------------------------------------------------------------------------------------------------------------
 *
 *
-*                                          New Section Added For WP Spark
+*                                          New Section Added Faster 
 *     #ff5300 - orange
 *     #5a93ed - light blue
 *--------------------------------------------------------------------------------------------------------------------------*/
@@ -29,11 +29,10 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 }
 
 .button-holder {
-	padding: 20px;
+    margin: -48px;    
     float: right;
-    min-height: 40px;
-    min-width: 200px;
-    display: inline-block;
+   /* min-height: 40px;
+    min-width: 200px;*/
 }
 
 .hero-background {
@@ -198,4 +197,29 @@ footer {
     width: 100%;
     border-top: 3px solid #FF5300;
     background-color: #2b2b2b;
+}
+
+.menu-container {
+    padding: 35px 0px 0px 0px;
+    float: right;
+    min-height: 40px;
+    min-width: 400px;
+}
+
+#menu-header-menu ul {
+    list-style-type: none;
+    list-style-image: none;
+    margin-top: 40px;
+}
+
+#menu-header-menu li {
+    display: inline;
+}
+
+#menu-header-menu li a {
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 5px 20px 5px 5px; 
+    color: #2b2b2b;
+    font-size: 1.3em;
 }

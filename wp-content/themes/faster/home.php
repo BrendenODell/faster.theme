@@ -1,6 +1,6 @@
 <?php
 /**
- * Theme: Flat Bootstrap
+ * Theme: faster
  * 
  * Template Name: Home Page
  *
@@ -11,7 +11,7 @@
  * <div class="container"> before your content to keep it in line with the rest of 
  * the site content.
  *
- * @package flat-bootstrap
+ * @package faster 
  */
 
 get_header(); ?>
@@ -34,10 +34,10 @@ get_header(); ?>
 
 				<div class="home-section-one">
 					<div class="section-heading">
-						<h4> We take care of your Wordpress site so you can take care of bussiness.</h4>
+						<h4> We take care of your Wordpress site so you can take care of business.</h4>
 					</div>
 					<div class="section-sub-heading">
-						<h4> Faster provides unlimited small fixes and unparelled responsetime.We take care of all your Wordpress needs for one low monthly price.</h4>
+						<h4> Faster provides unlimited small fixes and unparelled response time.We take care of all your Wordpress needs for one low monthly price.</h4>
 					</div>
 					<div class="section-content">
 						<div class="section-content-row">
