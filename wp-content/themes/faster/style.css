@@ -227,3 +227,12 @@ footer {
     border-top: 3px solid #FF5300;
     background-color: #2b2b2b;
 }
+/** This fixes the white bars in header & footer. **/
+@media screen and (min-width: 44.375em) {
+    body:not(.custom-background-image):after {
+        height: 0px;
+    }
+    body:not(.custom-background-image):before {
+        height: 0px;
+    }
+} 
