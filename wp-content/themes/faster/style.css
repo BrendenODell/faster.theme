@@ -28,12 +28,39 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 	color: #ff5300;
 }
 
+/* Header menu and navigation */
+
+.menu-container {
+    padding: 35px 48px 0px 0px;
+    float: right;
+    min-height: 40px;
+    min-width: 400px;
+}
+
+#menu-header-menu ul {
+    list-style-type: none;
+    list-style-image: none;
+    margin-top: 40px;
+}
+
+#menu-header-menu li {
+    display: inline;
+}
+
+#menu-header-menu li a {
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 5px 20px 5px 5px; 
+    color: #2b2b2b;
+    font-size: 1.3em;
+}
+
 .button-holder {
     margin: -48px;    
-    float: right;
-   /* min-height: 40px;
-    min-width: 200px;*/
+    float: right; 
 }
+
+/******************************/
 
 .hero-background {
     width: 100%;
@@ -197,29 +224,4 @@ footer {
     width: 100%;
     border-top: 3px solid #FF5300;
     background-color: #2b2b2b;
-}
-
-.menu-container {
-    padding: 35px 0px 0px 0px;
-    float: right;
-    min-height: 40px;
-    min-width: 400px;
-}
-
-#menu-header-menu ul {
-    list-style-type: none;
-    list-style-image: none;
-    margin-top: 40px;
-}
-
-#menu-header-menu li {
-    display: inline;
-}
-
-#menu-header-menu li a {
-    text-decoration: none;
-    margin-top: 10px;
-    padding: 5px 20px 5px 5px; 
-    color: #2b2b2b;
-    font-size: 1.3em;
 }
