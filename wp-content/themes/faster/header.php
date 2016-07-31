@@ -28,7 +28,7 @@
 		<div class="wpspark-header">
     
 			<div class="logo-holder">
-  				<h1 style="font-weight:100;vertical-align:middle;"><span style="color:black !important;">Faster</span></h1>
+  				<a href="/"><img src="/wp-content/themes/faster/images/faster.logo.png"></a>
 
   			</div>
           <div class="menu-container">
