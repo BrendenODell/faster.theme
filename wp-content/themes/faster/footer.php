@@ -9,16 +9,14 @@
  * @since Twenty Sixteen 1.0
  */
 ?>
-
-		</div><!-- .site-content -->
-
+</div><!-- .site-content -->
 		<footer>
 			<div class="site-info" style="width:50%;float:left;">
-				<span class="site-title"><a style="color:white;" href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></span>
+				<span class="site-title">&copy; <?php echo date('Y'); ?> <a style="color:white;" href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></span>
 			</div>
 			<div class="site-info" style="width:50%;float:right;text-align:right;">
-				<span class="site-title"><a style="color:white;margin-right:40px" href="#" rel="home">Terms</a></span>
-				<span class="site-title"><a style="color:white;" href="#" rel="home">Privacy</a></span>
+				<span class="site-title"><a style="color:white;margin-right:40px" href="#">Terms</a></span>
+				<span class="site-title"><a style="color:white;" href="#">Privacy</a></span>
 			</div>
 		</footer><!-- .site-footer -->
 	</div><!-- .site-inner -->
