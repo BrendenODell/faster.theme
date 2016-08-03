@@ -24,14 +24,12 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 
 .logo-holder {
 	display: inline-block;
-	font-weight: 100;
-	color: #ff5300;
 }
 
 /* Header menu and navigation */
 
 .menu-container {
-    padding: 35px 48px 0px 0px;
+    padding: 24px 48px 0px 0px;
     float: right;
     min-height: 40px;
     min-width: 400px;
