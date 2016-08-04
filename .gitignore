@@ -1,6 +1,8 @@
-# ignore everything in the root except the "wp-content" directory.
+# ignore everything in the root except these directories.
 *
 !wp-content/
+!ticket/
+
 
 # ignore all files starting with .
 .*
@@ -55,6 +57,12 @@ wp-content/*
 !wp-content/themes/*
 !wp-content/themes/faster/*
 !wp-content/themes/twentysixteen/*
+
+#ignore everything in ticket/ except:
+ticket/*
+!ticket/css/*
+!ticket/index.php
+!ticket/include/*
 
 # ignore specific themes
 wp-content/themes/uxliturgy/
