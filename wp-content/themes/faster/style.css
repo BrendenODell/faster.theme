@@ -18,11 +18,11 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 *     #5a93ed - light blue
 *--------------------------------------------------------------------------------------------------------------------------*/
 
-.wpspark-header {
+.header-container {
     margin: 0px 100px 0px;
 }
 
-.logo-holder {
+.logo-container {
 	display: inline-block;
 }
 
@@ -53,12 +53,12 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
     font-size: 1.3em;
 }
 
-.button-holder {
+.button-container {
     margin: -48px;    
     float: right; 
 }
 
-/******************************/
+/*********** Hero ************/
 
 .hero-background {
     width: 100%;
@@ -129,6 +129,8 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 	min-height: 175px;
 }
 
+/********* Testimonials *******/
+
 .carousel {
 	min-height: 260px;
 }
@@ -156,10 +158,10 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 	margin:auto;
 }
 .slide-square h5 {
+    font-family: "open sans", sans-serif;
     font-size: 1.5em;
     line-height: 1.3;
     font-weight: 200;
-    font-style: italic;
     color: #2b2b2b;
 }
 .slide-circle {
@@ -192,12 +194,14 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 .slide-credit h5 {
     font-size: 1.3em;
     font-weight: 900;
+    font-style: italic;
     font-family: "roboto", sans-serif;
     color: white;
     margin-bottom: 20px;
 }
 .slide-credit h8 {
     font-weight: 100;
+    font-style: italic;
     font-family: "roboto", sans-serif;
     color: white;
     font-style: italic;
@@ -218,12 +222,15 @@ ol.carousel-indicators {
 	height: 310px
 }
 
+/*********** Footer **********/
+
 footer {
 	padding: 5px 40px;
     display: inline-block !important;
     width: 100%;
     border-top: 3px solid #FF5300;
     background-color: #2b2b2b;
+    position: absolute; bottom: 0; left: 0; right: 0;
 }
 /** This fixes the white bars in header & footer. **/
 @media screen and (min-width: 44.375em) {
@@ -233,4 +240,14 @@ footer {
     body:not(.custom-background-image):before {
         height: 0px;
     }
-} 
+}
+
+.center-block {
+    padding: 50px 20px 20px 20px;
+}
+
+
+
+
+
+
