@@ -60,8 +60,9 @@ wp-content/*
 
 #ignore everything in ticket/ except:
 ticket/*
-!ticket/css/
+!ticket/css/*
 !ticket/index.php
+!ticket/include/*
 
 # ignore specific themes
 wp-content/themes/uxliturgy/
