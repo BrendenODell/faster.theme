@@ -30,7 +30,7 @@
           <div class="menu-container">
                 <?php wp_nav_menu( array( 'primary' => 'header-menu') ); ?>
           			<div class="button-container">
-          			<a class="btn btn-default" href="#" role="button" style="border-color:#ff5300;background-color:transparent;font-size:1.3em;">Log In</a>
+          			<a class="btn btn-default" href="https://faster.support/ticket/" role="button" style="border-color:#ff5300;background-color:transparent;font-size:1.3em;">Log In</a>
           			<a class="btn btn-default" href="#" role="button" style="border-color:#ff5300;color:white;text-shadow: none !important;background-color:#ff5300;font-size: 1.3em;">Sign Up</a>
           			</div><!-- .button-container -->
            </div><!-- .menu-container -->

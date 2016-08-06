@@ -1,7 +1,7 @@
 /*
 Theme Name:   Faster 
 Theme URI:    http://faster.support
-Description:  Child Theme of tweentysixteen
+Description:  Child Theme of twentysixteen
 Author:       Brenden O'Dell
 Author URI:   http://mostoptimal.com
 Template:     twentysixteen
@@ -29,7 +29,7 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 /* Header menu and navigation */
 
 .menu-container {
-    padding: 24px 48px 0px 0px;
+    padding: 20px 48px 0px 48px;
     float: right;
     min-height: 40px;
     min-width: 400px;
@@ -226,10 +226,12 @@ ol.carousel-indicators {
 
 footer {
 	padding: 5px 40px;
-    display: inline-block !important;
+    /*display: inline-block !important;*/
     width: 100%;
     border-top: 3px solid #FF5300;
     background-color: #2b2b2b;
+    height: 50px;
+    bottom: 0;
 }
 /** This fixes the white bars in header & footer. **/
 @media screen and (min-width: 44.375em) {
@@ -242,8 +244,10 @@ footer {
 }
 
 .center-block {
-    padding: 50px 20px 20px 20px;
+    padding: 50px 20px 50px 20px;
+    max-width: 680px;
 }
+
 
 
 

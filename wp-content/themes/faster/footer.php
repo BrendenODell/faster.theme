@@ -19,9 +19,9 @@
 				<span class="site-title"><a style="color:white;" href="#">Privacy</a></span>
 			</div>
 		</footer><!-- .site-footer -->
-	</div><!-- .site-inner -->
-</div><!-- .site -->
-
+	</div> <!-- .site-inner -->
+ </div> <!-- .site -->
 <?php wp_footer(); ?>
+</div>
 </body>
 </html>
