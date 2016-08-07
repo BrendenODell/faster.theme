@@ -78,7 +78,7 @@ if (($lang = Internationalization::getCurrentLanguage())
         </div><!-- .navbar-header -->
             <div class="collapse navbar-collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav">
-               <li><a href="open.php">Open Ticket</a></li>
+                <li><a href="open.php">Open Ticket</a></li>
                 <li><a href="view.php">Check Ticket</a></li>
                 </ul>  
             </div><!-- .navbar-collapse -->
