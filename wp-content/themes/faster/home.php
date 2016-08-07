@@ -23,11 +23,10 @@ get_header(); ?>
 				<div class="hero">
 					<div class="hero-background" style="">
 						<div class="hero-content">
-							<!-- <h4 style="font-weight:900;font-family: 'Roboto', sans-serif;font-size: 1.6em;">LET US WORRY ABOUT THE NERD STUFF</h4> -->
-							<h1 style="font-weight: 100;font-size: 4em;margin: 60px 0px 40px;">Unlimited Wordpress Support</h1>
-							<h4 style="font-weight: 100;font-size: 2em;margin: 0px 0px 60px;">All of your Wordpress needs for one flat</br>monthly fee.</h4>
-							<a class="btn btn-default btn-lg" href="#" role="button" style="color:white;background-color:#ff5300;border: 2px solid white;margin: 0px 20px;padding: 7px 30px;">Sign Up Today</a>
-							<a class="btn btn-default btn-lg" href="#" role="button" style="color:white;border: 2px solid white;background-color: transparent;margin: 0px 20px;padding: 7px 30px;">Learn More</a>
+							<h1>Unlimited Wordpress Support</h1>
+							<h4>All of your Wordpress needs for one flat</br>monthly fee.</h4>
+							<a class="btn btn-hero-signup btn-lg" href="/get-started/" role="button">Sign Up Today</a>
+							<a class="btn btn-hero-learn btn-lg" href="#" role="button">Learn More</a>
 						</div>
 					</div>
 				</div>

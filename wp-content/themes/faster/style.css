@@ -25,11 +25,9 @@ header {
     border-bottom: 3px solid #ff5300;
     margin: 10px 10px 0px 0px;
 }
-
 .header-container {
     margin: 0px 100px 0px;
 }
-
 .logo-container {
 	display: inline-block;
     margin: 0px 10px 10px 0px;
@@ -43,17 +41,14 @@ header {
     min-height: 40px;
     min-width: 400px;
 }
-
 #menu-header-menu ul {
     list-style-type: none;
     list-style-image: none;
     margin-top: 40px;
 }
-
 #menu-header-menu li {
     display: inline;
 }
-
 #menu-header-menu li a {
     text-decoration: none;
     margin-top: 10px;
@@ -61,11 +56,34 @@ header {
     color: #2b2b2b;
     font-size: 1.3em;
 }
-
 .button-container {
-    margin: -48px;    
+    margin: -42px;    
     float: right; 
 }
+.button-container .btn-default {
+    font-family: "Open Sans", sans-serif;
+    background-color: #FF5300;
+    font-size: 1.3em;
+    text-shadow: none;
+    color: #FFFFFF;
+    border: 1px;
+    border-color: #F24F00;
+    box-shadow: none;
+    
+}
+.button-container .btn-success {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3em;
+    text-shadow: none;
+    color: #FFFFFF;
+    border:1px;
+    box-shadow: none;
+}
+.button-container .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
+    background-color: #F24F00;
+    font-family: 'Open Sans', sans-serif;
+}
+
 
 /*********** Hero section ************/
 
@@ -77,7 +95,6 @@ header {
     
     border-bottom: 3px solid #ff5300;
 }
-
 .hero-content {
 	color: white;
 	padding: 10% 10%;
@@ -85,18 +102,40 @@ header {
 	background-color: rgba(0, 0, 0, 0.5);
     min-height: 700px;
 }
+.hero-content h1 {
+    font-weight: 100;
+    font-size: 4em;
+    margin: 60px 0px 40px;
+}
+.hero-content h4 {
+    font-weight: 100;
+    font-size: 2em;
+    margin: 0px 0px 60px;
+}
+.btn-hero-signup {
+    color:white;
+    background-color:#ff5300;
+    border: 2px solid white;
+    margin: 0px 20px;
+    padding: 7px 30px;
+}
+.btn-hero-learn {
+    color:white;
+    border: 2px solid white;
+    background-color: transparent;
+    margin: 0px 20px;
+    padding: 7px 30px;
 
+}
 .first-heading{
 	font-weight: bold;
 	color: white;
 }
-
 .home-section-one{
 	display: inline-block;
 	text-align: center;
     width: 100%;
 }
-
 .section-heading{
 	padding: 20px 100px;
 }
@@ -106,39 +145,34 @@ header {
 	font-size: 1.9em;
     text-align: center;
 }
-
 .section-sub-heading {
 	margin-bottom: 50px;
 	padding: 0px 180px;
 }
-
-.section-sub-heading h4{
+.section-sub-heading h4 {
 	font-weight:100;
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.3em;
     text-align: center;
 }
-
 .section-content-row {
     padding: 25px 150px;
     min-height: 200px;
 }
-
 .col-md-4 .fa {
     font-size: 3em;
     color: #5a93ed;
     margin-top: 10px;
 }
-
 .col-md-4 h6 {
     min-height: 45.45px;
     font-size: 1.5em;
 }
-
-.slide-background{
+.slide-background {
 	background-color: #2b2b2b !important;
 	min-height: 175px;
 }
+
 
 /********* Testimonials *******/
 
@@ -259,12 +293,34 @@ footer {
     max-width: 680px;
 }
 
-/** Styling for price panels **/
+/******** Headline section for sign up page *********/
+
+.headline {
+    padding: 20px;
+}
+
+.headline h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.9em;
+    text-align: center;
+    color: #FF5300;
+}
+.headline .section-sub-heading  {
+    margin: 20px;
+}
+
 .container-price {
     background-color: #F5F5F5;
     width: 100%;
     display: inline-block;
 }
+
+.container-price .section-heading {
+    padding-top: 48px;
+}
+
+/******** Styling for price panels ********/
 
 .panel-price {
     border-color: #BFBFBF;
@@ -286,6 +342,11 @@ footer {
     font-size: 4em;
     text-align: center;
 }
+.panel-body small {
+    font-family: 'Roboto', sans-serif;
+    font-size: .3em;
+    font-weight: 700;
+}
 .panel-heading h4 {
     font-family: 'Roboto', sans-serif;
     color: #FF5300;
@@ -298,14 +359,19 @@ footer {
 .panel .list-group {
     margin-left: 0px;
 }
-.headline h2 {
+
+.panel-footer .btn {
+    background-color: #FF5300;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    font-size: 1.9em;
-    text-align: center;
-    color: #FF5300;
+    font-size: 1.7em;
 }
-
-
+.panel-footer .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
+    background-color: #FFFFFF;
+    color: #FF5300;
+    border: 2px solid #FF5300;
+    font-family: 'Open Sans', sans-serif;
+}
 
 
