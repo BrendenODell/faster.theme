@@ -38,16 +38,16 @@ get_header(); ?>
 				<p>Just a single small fix to get you back up and running. Here are a few examples of small fixes:</p>
 				</div><!--panel-body-->
 				<ul class="list-group">
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
+					<li class="list-group-item">Fix a styling (CSS) issue</li>
+					<li class="list-group-item">Update a theme or plugin</li>
+					<li class="list-group-item">Create a backup of files and database</li>
+					<li class="list-group-item">Recommend and install a plugin</li>
+					<li class="list-group-item">Upgrade Wordpress</li>
+					<li class="list-group-item">Add Google Analytics</li>
+					<li class="list-group-item">100's of other fixes...</li>
 				</ul>
 				<div class="panel-footer">
-					Panel footer
+					<a class="btn btn-default btn-block" href="#">Get Started</a>
 				</div><!--.panel-footer-->
 		</div><!--.panel-price-->
 		</div>
@@ -57,20 +57,20 @@ get_header(); ?>
 			<h4>Unlimited Fixes</h4>
 			</div><!--.panel-heading-->
 				<div class="panel-body">
-				<h1>$79</h1>
+				<h1>$79<small>/month</small></h1>
 				<p>Unlimited small fixes & updates and our full suite of security and backup enhancements.</p>
 				</div><!--.panel-body-->
 				<ul class="list-group">
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
-					<li class="list-group-item">something</li>
+					<li class="list-group-item">Unlimited small fixes for 1 site</li>
+					<li class="list-group-item">Wordpress Core upgrades</li>
+					<li class="list-group-item">Proactive theme & plugin updates</li>
+					<li class="list-group-item">Daily secure cloud backups</li>
+					<li class="list-group-item">Daily malware and security scans</li>
+					<li class="list-group-item">Uptime monitoring</li>
+					<li class="list-group-item">Unlimited live chat & email support</li>
 				</ul>
 				<div class="panel-footer">
-					Panel footer
+					<a class="btn btn-default btn-block" href="#">Get Started</a>
 				</div>
 		</div><!--.panel-primary-->
 		</div><!--.col-md-6-->
