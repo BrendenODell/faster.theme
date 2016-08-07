@@ -19,12 +19,12 @@ get_header(); ?>
 <section class="headline">
 	<h2>Fast, reliable Wordpress support when you need it</h2>
 	<div class="section-sub-heading">
-		<h4>Your business is dynamic and always changing. Is your web site?</h4>
+		<h4>Get help with your Wordpress site today. Never any long-term contracts.</h4>
 	</div>
 </section>
 <section class="container-fluid container-price">
 	<div class="section-heading">
-		<h4>One plan for everyone. Your first fix is on us.</h4>
+		<h4>Unlimited monthly Wordpress support for one low price.</h4>
 	</div>
 	<div class="center-block">
 		<div class="row">

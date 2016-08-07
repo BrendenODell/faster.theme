@@ -335,6 +335,7 @@ footer {
 .panel-body p {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
+    text-align: center;
 }
 .panel-body h1 {
     font-family: 'Roboto', sans-serif;
@@ -374,4 +375,15 @@ footer {
     font-family: 'Open Sans', sans-serif;
 }
 
+/****** FAQs ********/
+
+#faq h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3em;
+    font-weight: 700;
+    text-align: center;
+}
+#faq p {
+    font-family: 'Open Sans', sans-serif;
+}
 
