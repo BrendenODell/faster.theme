@@ -23,7 +23,7 @@ get_header(); ?>
 				<div class="hero">
 					<div class="hero-background" style="">
 						<div class="hero-content">
-							<h4 style="font-weight:900;font-family: 'Roboto', sans-serif;font-size: 1.6em;">LET US WORRY ABOUT THE NERD STUFF</h4>
+							<!-- <h4 style="font-weight:900;font-family: 'Roboto', sans-serif;font-size: 1.6em;">LET US WORRY ABOUT THE NERD STUFF</h4> -->
 							<h1 style="font-weight: 100;font-size: 4em;margin: 60px 0px 40px;">Unlimited Wordpress Support</h1>
 							<h4 style="font-weight: 100;font-size: 2em;margin: 0px 0px 60px;">All of your Wordpress needs for one flat</br>monthly fee.</h4>
 							<a class="btn btn-default btn-lg" href="#" role="button" style="color:white;background-color:#ff5300;border: 2px solid white;margin: 0px 20px;padding: 7px 30px;">Sign Up Today</a>
@@ -82,11 +82,13 @@ get_header(); ?>
 									<div class="slide-circle">
 									</div>
 									<div class="slide-square">
-										<h5> "The team at Faster are absolutely</br>amazing. Within hours of signing up they</br>cleaned up our hacked site, deleted</br>thousands of spam comments, and fixed our</br>contact form!"</h5>
+										<h5><i class="fa fa-quote-left" aria-hidden="true"></i> 
+The team at Faster are absolutely</br>amazing. Within hours of signing up they</br>cleaned up our hacked site, deleted</br>thousands of spam comments, and fixed our</br>contact form! <i class="fa fa-quote-right" aria-hidden="true"></i>
+</h5>
 									</div>
 									<div class="slide-credit">
 										<h5>Joe Blow</h5>
-										<h8>Important Bussinesss Dude - Evil Corp.</h8>
+										<h8>Important Business Dude - Evil Corp.</h8>
 									</div>
 								</div>
 							</div>
@@ -100,11 +102,11 @@ get_header(); ?>
 									<div class="slide-circle">
 									</div>
 									<div class="slide-square">
-										<h5> "The team at Faster are absolutely</br>amazing. Within hours of signing up they</br>cleaned up our hacked site, deleted</br>thousands of spam comments, and fixed our</br>contact form!"</h5>
+										<h5><i class="fa fa-quote-left" aria-hidden="true"></i> The team at Faster are absolutely</br>amazing. Within hours of signing up they</br>cleaned up our hacked site, deleted</br>thousands of spam comments, and fixed our</br>contact form! <i class="fa fa-quote-right" aria-hidden="true"></i> </h5>
 									</div>
 									<div class="slide-credit">
 										<h5>Joe Blow</h5>
-										<h8>Important Bussinesss Dude - Evil Corp.</h8>
+										<h8>Important Business Dude - Evil Corp.</h8>
 									</div>
 								</div>
 							</div>
@@ -118,11 +120,11 @@ get_header(); ?>
 									<div class="slide-circle">
 									</div>
 									<div class="slide-square">
-										<h5> "The team at Faster are absolutely</br>amazing. Within hours of signing up they</br>cleaned up our hacked site, deleted</br>thousands of spam comments, and fixed our</br>contact form!"</h5>
+										<h5><i class="fa fa-quote-left" aria-hidden="true"></i> The team at Faster are absolutely</br>amazing. Within hours of signing up they</br>cleaned up our hacked site, deleted</br>thousands of spam comments, and fixed our</br>contact form! <i class="fa fa-quote-right" aria-hidden="true"></i> </h5>
 									</div>
 									<div class="slide-credit">
 										<h5>Joe Blow</h5>
-										<h8>Important Bussinesss Dude - Evil Corp.</h8>
+										<h8>Important Business Dude - Evil Corp.</h8>
 									</div>
 								</div>
 							</div>
@@ -139,7 +141,5 @@ get_header(); ?>
 				</div>
 
 				</main><!-- #main -->
-	</div><!-- #primary -->
-
-
+	</div> <!-- #primary -->
 <?php get_footer(); ?>
