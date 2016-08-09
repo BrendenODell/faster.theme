@@ -36,7 +36,7 @@ get_header(); ?>
 						<h4> We take care of your Wordpress site so you can take care of business.</h4>
 					</div>
 					<div class="section-sub-heading">
-						<h4> Faster provides unlimited small fixes and unparelled response time.We take care of all your Wordpress needs for one low monthly price.</h4>
+						<h4> Faster provides unlimited small fixes and unparalleled response time.We take care of all your Wordpress needs for one low monthly price.</h4>
 					</div>
 					<div class="section-content">
 						<div class="section-content-row">
