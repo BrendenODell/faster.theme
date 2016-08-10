@@ -20,7 +20,7 @@ get_header(); ?>
 	<div id="primary" class="content-area-wide">
 		<main id="main" class="site-main" role="main">
 				<div class="hero">
-					<div class="hero-background" style="">
+					<div class="hero-background" id="test">
 						<div class="hero-content">
 							<h1>Unlimited Wordpress Support</h1>
 							<h4>All of your Wordpress needs for one flat</br>monthly fee.</h4>
