@@ -19,7 +19,6 @@ get_header(); ?>
 
 	<div id="primary" class="content-area-wide">
 		<main id="main" class="site-main" role="main">
-
 				<div class="hero">
 					<div class="hero-background" style="">
 						<div class="hero-content">
@@ -68,10 +67,11 @@ get_header(); ?>
 							</div>
 						</div>
 					</div>
-					<div class="section-content" style="padding-top:0;">
-						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+					<!-- Testimonials -->
+					<!-- <div class="section-content" style="padding-top:0;">
+						<div id="myCarousel" class="carousel slide" data-ride="carousel"> -->
 						  <!-- Wrapper for slides -->
-						  <div class="carousel-inner" role="listbox">
+						  <!-- <div class="carousel-inner" role="listbox">
 							<div class="item active">
 								<div class="slide-space">
 								</div>
@@ -128,16 +128,16 @@ The team at Faster are absolutely</br>amazing. Within hours of signing up they</
 								</div>
 							</div>
 
-						  </div>
+						  </div> -->
 						  <!-- Indicators -->
-						  <ol class="carousel-indicators">
+						  <!-- <ol class="carousel-indicators">
 							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 							<li data-target="#myCarousel" data-slide-to="1"></li>
 							<li data-target="#myCarousel" data-slide-to="2"></li>
 						  </ol>
 						</div>
 					</div>
-				</div>
+				</div> -->
 
 				</main><!-- #main -->
 	</div> <!-- #primary -->
