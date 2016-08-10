@@ -63,6 +63,7 @@ ticket/*
 !ticket/css/*
 !ticket/index.php
 !ticket/include/*
+!ticket/include/client/*
 
 # ignore specific themes
 wp-content/themes/uxliturgy/
