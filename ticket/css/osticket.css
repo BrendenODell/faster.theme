@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,900' rel='stylesheet' type='text/css);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,900' rel='stylesheet' type='text/css);
+
 /* Overlay */
 #overlay {
     display: none;
@@ -101,3 +104,16 @@ body {
 #content {
     background-color: #FFFFFF !important;
 }
+#content h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #FF5300;
+    margin-bottom: 10px;
+    border-bottom: 1px;
+    border-color: #F5F5F5;
+}
+#content p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
